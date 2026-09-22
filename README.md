@@ -14,11 +14,11 @@ Right-click the **Void Key** to open the storage menu. Your items live in an inf
 
 ## Download
 
-Download **`Infinite-Storage-v3.2.0.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
+Download **`Infinite-Storage-v3.2.1.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
 
 1. Create or edit a world and open **Add-Ons**.
 2. Activate the **Behavior Pack** and the **Resource Pack** of this add-on.
-3. Requires Minecraft Bedrock **1.20.50 or newer**.
+3. Requires Minecraft Bedrock **1.21.110 or newer**.
 
 If items are missing in your world, check the world's *Experiments* page and enable *Beta APIs* and *Holiday Creator Features* as a fallback.
 
