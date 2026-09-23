@@ -1,8 +1,14 @@
+<div align="center">
+
 # Infinite Storage
 
-> A personal, infinite Void Chest opened with a key item - nobody else can touch it.
+**A personal, infinite Void Chest opened with a key item - nobody else can touch it.**
 
 [![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
+</div>
+
+---
 
 Right-click the **Void Key** to open the storage menu. Your items live in an infinite personal void chest; while it is open, the double chest in the world is locked for everybody else, silently.
 
@@ -32,8 +38,11 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-![preview](inf-storage.png)
+<div align="center">
 
+<img src="inf-storage.png" alt="Infinite Storage" width="760">
+
+</div>
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [inf-storage](https://github.com/hash2444/inf-storage)
